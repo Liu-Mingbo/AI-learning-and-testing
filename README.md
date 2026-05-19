@@ -1,2 +1,2 @@
-testing AI and stuff
+testing AI and stuff；
 depository for obsidian
