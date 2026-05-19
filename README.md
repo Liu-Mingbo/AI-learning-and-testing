@@ -1,2 +1,1 @@
-testing AI and stuff；
-depository for obsidian
+testing AI and stuff
