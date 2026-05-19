@@ -1,1 +1,2 @@
-# NLP-learning
+testing AI and stuff
+depository for obsidian
